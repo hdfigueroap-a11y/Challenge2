@@ -1,6 +1,6 @@
 # Challenge2
 ## Parte visual
-![Parte Visual](
+![Parte Visual](./PV.png)
 ## Conexiones
 # Configuración de Topología Cisco Packet Tracer
 
