@@ -1,7 +1,8 @@
 # Challenge2
 ## Parte visual
-![Parte Visual](./PV.png)
+![Parte Visual Sin Conexiones](./PVSN.png)
 ## Conexiones
+![Parte Visual](./PV.png)
 # Configuración de Topología Cisco Packet Tracer
 
 Este documento se irá ampliando a medida que agregues especificaciones. Por ahora cubre la parte 1: **configuración base de los 3 switches** (VLANs, enlaces troncales y puertos de acceso).
