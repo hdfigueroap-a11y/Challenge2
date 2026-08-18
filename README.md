@@ -1,4 +1,7 @@
 # Challenge2
+## Parte visual
+![Parte Visual](
+## Conexiones
 # Configuración de Topología Cisco Packet Tracer
 
 Este documento se irá ampliando a medida que agregues especificaciones. Por ahora cubre la parte 1: **configuración base de los 3 switches** (VLANs, enlaces troncales y puertos de acceso).
